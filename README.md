@@ -1,3 +1,3 @@
 # WeatherApp
-A simple application for getting weather status
+A simple application for get weather status
 Just for fun :)
