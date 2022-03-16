@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="location">Location</string>
+    <string name="updated_at">Updated at</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="_24_c">24°C</string>
+    <string name="min_temp">Min Temp</string>
+    <string name="max_temp">Max Temp</string>
+    <string name="sunrise_icon">sunrise icon</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="_5_30am">5:30am</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunset_icon">sunset icon</string>
+    <string name="wind_icon">wind icon</string>
+    <string name="wind">Wind</string>
+    <string name="barometer_icon">barometer icon</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity_icon">Humidity icon</string>
+    <string name="humidity">Humidity</string>
+    <string name="info_icon">info icon</string>
+    <string name="developed_by">Developed by</string>
+    <string name="mahdi">Mahdi :)</string>
+    <string name="error_text">Something went wrong</string>
+</resources>
